@@ -29,10 +29,16 @@ I am a certified cybersecurity professional with a sharp focus in ethical hackin
 I'm not working on anything public right now, but that’s just the calm before the storm. New projects are on the horizon, and when they drop, you’ll see some serious innovation. Stay tuned.
 <br>
 
+
+
 ### 🌐 Portfolio
 Check out my [Portfolio](https://your-portfolio.com) (in progress) to see what I’ve done, what I’m working on, and where I’m headed next. My GitHub might be quiet now, but my portfolio tells the real story.
 <br>
 
+### Fun Fact
+- Captcha stands for Completely Automated Public Turing Test to tell Computers and Humans Apart. I bet you didn't know that. I bet you also didn't know that I wanted to be a scientist as a kid.
+<br>
+
 ### 📫 Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/thomasbugyei)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thomasbugyei)
 - [Proton Mail](mailto:ThomasBugyei@proton.me) 
