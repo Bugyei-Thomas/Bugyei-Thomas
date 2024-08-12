@@ -1,5 +1,6 @@
 
-# Welcome, Fellow Github Human 👾 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+# Welcome, Fellow Github Human  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://github.com/user-attachments/assets/0a75b4e1-0b78-44d4-be1b-b0498dd6a0d6" width="31"> 👾
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1fa7fb9e-8eab-45bc-9da7-29bd0e9ff3a9" alt="MasterHead" width="600" height="320">
@@ -13,10 +14,15 @@ I am a certified cybersecurity professional with a sharp focus in ethical hackin
 <img align="right" alt="GIF" src="https://github.com/user-attachments/assets/db40ef75-a253-43b6-80b4-db3b636861ab" width="400" height="300" />
 
 ### 🔍 What I Do
-- **Wireless Security**: Cracking open the airwaves, finding the weak spots, and locking them down.
-- **Mobile Security**: From apps to OS vulnerabilities, I dig deep to uncover what others might miss.
-- **System Security**: Hardening systems and finding exploits before they find you, or worse someone else does.
-- **Web Security**: Pen-testing, vulnerability assessments, and ensuring web apps are bulletproof.
+- **Web Security:** Penetration testing, vulnerability assessments, and fortifying web apps to be bulletproof against threats.
+
+- **Network Security:** Scanning and securing networks by identifying vulnerable open ports and misconfigurations that could be exploited.
+
+- **System Pentesting:** Hardening systems and uncovering exploits before they can be used against you...by me or anyone else.
+
+- **Mobile Security:** Safeguarding mobile platforms from the latest threats, securing apps, and defending against vulnerabilities.
+
+- **Risk Assessment:** Evaluating security architecture, identifying potential risks, and providing strategies to mitigate them.
 <br>
 
 ### 💼 Projects
@@ -29,4 +35,4 @@ Check out my [Portfolio](https://your-portfolio.com) (in progress) to see what I
 
 ### 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/thomasbugyei)
-- [Email](mailto:thomasbugyei66@gmail.com)
+- [Proton Mail](mailto:ThomasBugyei@proton.me) 
