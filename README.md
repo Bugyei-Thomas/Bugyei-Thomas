@@ -25,7 +25,7 @@ I am a certified cybersecurity professional with a sharp focus in ethical hackin
 - **Mobile Security:** Safeguarding mobile platforms from the latest threats, securing apps, and defending against vulnerabilities.
 
 - **Risk Assessment:** Evaluating security architecture, identifying potential risks, and providing strategies to mitigate them.
-<br>
+  <br>
 
 ### 💼 Projects
 I'm not working on anything public right now, but that’s just the calm before the storm. New projects are on the horizon, and when they drop, you’ll see some serious innovation. Stay tuned.
