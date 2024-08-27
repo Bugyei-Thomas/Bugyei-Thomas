@@ -38,7 +38,7 @@ Check out my [Portfolio](https://your-portfolio.com) (in progress) to see what I
 
 ### Fun Fact
 - Captcha stands for Completely Automated Public Turing Test to tell Computers and Humans Apart.
-- I bet you didn't know that. I bet you also didn't know that I wanted to be a scientist as a kid.
+- I bet you didn't know that. I bet you also didn't know I used to be a flutter developer.
 - My laptop is my first born.
 <br>
 
