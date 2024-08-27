@@ -44,4 +44,3 @@ Check out my [Portfolio](https://your-portfolio.com) (in progress) to see what I
 
 ### 📫 Get in Touch
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thomasbugyei)
-- [Proton Mail](mailto:ThomasBugyei@proton.me) 
