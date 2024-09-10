@@ -9,7 +9,7 @@
 </p>
 <br>
 
-## $ whoami: Thomas Bugyei  ~ Certified In Cybersecurity | Ethical Hacker
+## $ whoami:~ Thomas Bugyei  ~ Certified In Cybersecurity | Ethical Hacker
 I am a certified cybersecurity professional with a sharp focus in ethical hacking. If it's connected to the internet, I'm on it, whether it's **wireless networks**, **mobile devices**, **corporate systems**, or **web applications**. My mission? To explore, secure, and elevate anything that speaks ones and zeros.
 <br>
 
@@ -24,7 +24,7 @@ I am a certified cybersecurity professional with a sharp focus in ethical hackin
 
 - **Mobile Security:** Safeguarding mobile platforms from the latest threats, securing apps, and defending against vulnerabilities.
 
-- **Risk Assessment:** Evaluating security architecture, identifying potential risks, and providing strategies to mitigate them.
+- **Vulnerability Assessment:** Evaluating security architecture, identifying potential risks, and providing strategies to mitigate them.
   <br>
 
 ### 💼 Projects
