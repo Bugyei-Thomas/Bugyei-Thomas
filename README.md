@@ -33,7 +33,7 @@ I currently have a few projects on public, the rest private because I don't want
 <br>
 
 ### 🌐 Portfolio
-Check out my [Portfolio](https://your-portfolio.com) (in progress) to see what I’ve done, what I’m working on, and where I’m headed next. My GitHub might be quiet now, but my portfolio tells the real story.
+Check out my [portfolio](https://bugportfolio.netlify.app/) to see what I’ve done, what I’m working on, and where I’m headed next. My GitHub might be quiet now, but my portfolio tells the real story.
 <br>
 
 ### Fun Fact
