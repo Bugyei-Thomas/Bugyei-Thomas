@@ -28,7 +28,7 @@ I am a certified cybersecurity professional with a sharp focus in ethical hackin
   <br>
 
 ### 💼 Projects
-I'm not working on anything public right now, but that’s just the calm before the storm. New projects are on the horizon, and when they drop, you’ll see some serious innovation. Stay tuned.
+I currently have a few projects on public, the rest private because I don't want you to see how good I am at coding (I suck at production coding, something simple and productive and I'm done).
 <br>
 <br>
 
